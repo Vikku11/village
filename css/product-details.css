@@ -1,0 +1,45 @@
+.product {
+  display: flex;
+  flex-direction: row;
+  width: 70%;
+  gap: 40px;
+  /* gap: 30px; */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.product-details {
+  display: flex;
+  gap: 8px;
+  padding-top: 40px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.icons {
+  font-size: 35px;
+  color: #6f43c1;
+  margin-top: 20px;
+}
+
+.remove {
+  text-decoration: none;
+  color: blue;
+  font-size: 18px;
+  font-weight: 100;
+  line-height: 20px;
+}
+
+.remove:hover {
+  color: #23527c;
+}
+
+.text {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 19px;
+  color: #aeaeae;
+  word-spacing: 2px;
+}

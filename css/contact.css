@@ -1,0 +1,24 @@
+.contact-us {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.name {
+  text-align: center;
+  color: #606b72;
+  font-size: 14px;
+  line-height: 15px;
+  font-weight: 600;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.text3 {
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 19px;
+  color: #606b72;
+  text-align: center;
+}

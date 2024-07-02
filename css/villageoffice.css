@@ -1,0 +1,55 @@
+.headerrrr {
+  text-align: center;
+  color: #606b72;
+  font-size: 30px;
+  line-height: 33px;
+  font-weight: 200;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.smart-village {
+  background-color: white;
+  /* padding: 20px 0 0; */
+  /* width: 100%; */
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.bordertop2 {
+  width: 12%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+  height: 4px;
+  background: #6f43c1;
+}
+
+.smart-village-body {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: auto auto;
+}
+
+.text {
+  text-align: left;
+}
+
+.img {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 20px;
+}
+
+.image2 {
+  outline: 1px solid #ddd;
+  outline-offset: 5px;
+  border-radius: 5px;
+  border: 1px solid #dddddd;
+  padding: 5px;
+  transition: 0.4s;
+}
+
+.image2:hover {
+  background-color: #377bb7;
+}
